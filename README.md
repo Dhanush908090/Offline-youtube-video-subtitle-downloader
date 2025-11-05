@@ -32,7 +32,7 @@ You must have the following tools installed and configured before starting:
 
 3.  **FFmpeg:** **This is CRITICAL.** `yt-dlp` needs FFmpeg to process and convert the raw subtitle data into the required `.srt` file format. (`winget install ffmpeg` run this in cmd that’s all simple )
 
-4.  download `subdown.py` from this repo
+4.  download `subdown.py` from this repo `https://github.com/user-attachments/files/23362751/subdown.py`
 
 ### Step 2: Install Python Dependencies
 
